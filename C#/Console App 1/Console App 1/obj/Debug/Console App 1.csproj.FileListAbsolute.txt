@@ -1,0 +1,7 @@
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\bin\Debug\Console App 1.exe.config
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\bin\Debug\Console App 1.exe
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\bin\Debug\Console App 1.pdb
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\obj\Debug\Console App 1.csproj.AssemblyReference.cache
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\obj\Debug\Console App 1.csproj.CoreCompileInputs.cache
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\obj\Debug\Console App 1.exe
+D:\Banu\Infinite\B3\C#\Console App 1\Console App 1\obj\Debug\Console App 1.pdb
