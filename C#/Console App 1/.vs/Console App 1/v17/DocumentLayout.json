@@ -3,14 +3,8 @@
   "WorkspaceRootPath": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Console App 1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|d:\\banu\\infinite\\b3\\c#\\console app 1\\console app 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|solutionrelative:console app 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|d:\\banu\\infinite\\b3\\c#\\console app 1\\console app 1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|df8f7042-0bb1-47d1-8e6d-deb3d07698bd"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,24 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Console App 1",
-              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Console App 1.csproj",
-              "RelativeDocumentMoniker": "Console App 1\\Console App 1.csproj",
-              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Console App 1.csproj",
-              "RelativeToolTip": "Console App 1\\Console App 1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-27T06:40:03.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Program.cs",
               "RelativeDocumentMoniker": "Console App 1\\Program.cs",
               "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Program.cs",
               "RelativeToolTip": "Console App 1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T05:29:05.3Z",
               "EditorCaption": ""

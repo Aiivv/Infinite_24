@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Console App 1")]
+[assembly: AssemblyTitle("DotNet_Day2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Console App 1")]
+[assembly: AssemblyProduct("DotNet_Day2")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("978e6aa5-a2ca-493e-950b-4ffe6447d715")]
+[assembly: Guid("abdfd6ba-0d2d-45c9-b43c-f67244fd4234")]
 
 // Version information for an assembly consists of the following four values:
 //

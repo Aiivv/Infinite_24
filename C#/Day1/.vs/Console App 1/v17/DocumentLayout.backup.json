@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\",
+  "WorkspaceRootPath": "D:\\Banu\\Infinite\\B3\\C#\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|d:\\banu\\infinite\\b3\\c#\\console app 1\\console app 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|d:\\banu\\infinite\\b3\\c#\\day1\\console app 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{978E6AA5-A2CA-493E-950B-4FFE6447D715}|Console App 1\\Console App 1.csproj|solutionrelative:console app 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Program.cs",
+              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day1\\Console App 1\\Program.cs",
               "RelativeDocumentMoniker": "Console App 1\\Program.cs",
-              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Console App 1\\Console App 1\\Program.cs",
+              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day1\\Console App 1\\Program.cs",
               "RelativeToolTip": "Console App 1\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T05:29:05.3Z",
+              "WhenOpened": "2024-10-28T07:13:28.965Z",
               "EditorCaption": ""
             }
           ]
