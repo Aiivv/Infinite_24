@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ABDFD6BA-0D2D-45C9-B43C-F67244FD4234}</ProjectGuid>
+    <ProjectGuid>{BBFD2AE6-8001-4F8E-9874-FBB6C44208AA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DotNet_Day2</RootNamespace>
-    <AssemblyName>DotNet_Day2</AssemblyName>
+    <RootNamespace>ConsoleApp0</RootNamespace>
+    <AssemblyName>ConsoleApp0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>DotNet_Day2.ProgramConstructs</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ProgramConstructs.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
