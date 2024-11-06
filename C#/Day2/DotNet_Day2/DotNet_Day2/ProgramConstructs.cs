@@ -14,6 +14,14 @@ namespace DotNet_Day2
             ProgramConstructs obj = new ProgramConstructs();
             obj.GetGrade();
             obj.Grades_SwitchStatement();
+            Loops obj1 = new Loops();
+            Console.WriteLine("----------While Loop-----------------");
+            obj1.WhileLoop();
+            Console.WriteLine("---------- Do While Loop-----------------");
+            obj1.DoWhile();
+            Console.WriteLine("-----------------For Loop-------------------");
+            Loops.ForLoop();
+            Console.ReadKey();
         }
 
 
@@ -22,7 +30,7 @@ namespace DotNet_Day2
         {
             Console.WriteLine("Enter your Grade O/A/B/C");
             char grade = Convert.ToChar(Console.ReadLine());
-            if (grade == 'O')
+            if (grade == 'O' || grade == 'A')
             {
                 Console.WriteLine("Excellent");
             }
@@ -51,32 +59,73 @@ namespace DotNet_Day2
             switch (Grades)
             {
                 case 'O':
-                    
-                        Console.WriteLine("Excellent");
-                        break;
-                    
+                case 'o':
+
+                    Console.WriteLine("Excellent");
+                    break;
+
                 case 'A':
-                    
-                        Console.WriteLine("Vey Good");
-                        break;
-                    
+                case 'a':
+                    Console.WriteLine("Vey Good");
+                    break;
+
                 case 'B':
-                    
-                        Console.WriteLine("Good");
-                       break;
-                    
+                case 'b':
+                    Console.WriteLine("Good");
+                    break;
+
                 case 'C':
-                    
-                        Console.WriteLine("Fair");
-                        
-                    
+                case 'c':
+                    Console.WriteLine("Fair");
+                    break;
+
                 default:
-                    
-                        Console.WriteLine("Invalid");
-                       
-                    
+                    Console.WriteLine("Invalid");
+                    break;
+            }
+        }
+    }
+
+    class Loops
+    {
+        //iterations
+        public void WhileLoop()
+        {
+            int i = 1;
+            while (i < 5)
+            {
+                Console.Write(i);
+                i++;
             }
             Console.Read();
         }
+
+
+        public void DoWhile()
+        {
+            int i = 1;
+            do
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+            while (i < 5);
+
+        }
+
+        public static void ForLoop()
+        {
+            int tot = 0;
+            for (int i = 0; i <= 5; i++)
+            {
+                if (i == 3)
+                    //break;
+                    continue;
+                    tot = tot + i;
+            }
+            Console.WriteLine(tot);
+        }
+
     }
 }
+

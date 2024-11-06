@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|d:\\banu\\infinite\\b3\\c#\\day4\\dotnet_day4\\dotnet_day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|solutionrelative:dotnet_day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\dotnet_day4\\access_specifier_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|solutionrelative:dotnet_day4\\access_specifier_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|d:\\banu\\infinite\\b3\\c#\\day4\\dotnet_day4\\dotnet_day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}|Dotnet_Day4\\Dotnet_Day4.csproj|solutionrelative:dotnet_day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{553F5559-3217-4FD3-AE7D-CA2DA60E6BDD}|Project2\\Project2.csproj|d:\\banu\\infinite\\b3\\c#\\day4\\dotnet_day4\\project2\\readonlynconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553F5559-3217-4FD3-AE7D-CA2DA60E6BDD}|Project2\\Project2.csproj|solutionrelative:project2\\readonlynconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553F5559-3217-4FD3-AE7D-CA2DA60E6BDD}|Project2\\Project2.csproj|d:\\banu\\infinite\\b3\\c#\\day4\\dotnet_day4\\project2\\prj_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553F5559-3217-4FD3-AE7D-CA2DA60E6BDD}|Project2\\Project2.csproj|solutionrelative:project2\\prj_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prj_2.cs",
+              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Project2\\Prj_2.cs",
+              "RelativeDocumentMoniker": "Project2\\Prj_2.cs",
+              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Project2\\Prj_2.cs",
+              "RelativeToolTip": "Project2\\Prj_2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:28:35.525Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -35,27 +52,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Employee.cs",
-              "RelativeDocumentMoniker": "Dotnet_Day4\\Employee.cs",
-              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Employee.cs",
-              "RelativeToolTip": "Dotnet_Day4\\Employee.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
+              "Title": "ReadOnlynConstant.cs",
+              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Project2\\ReadOnlynConstant.cs",
+              "RelativeDocumentMoniker": "Project2\\ReadOnlynConstant.cs",
+              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Project2\\ReadOnlynConstant.cs",
+              "RelativeToolTip": "Project2\\ReadOnlynConstant.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:21:47.75Z",
+              "WhenOpened": "2024-11-06T10:14:55.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Program.cs",
-              "RelativeDocumentMoniker": "Dotnet_Day4\\Program.cs",
-              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Program.cs",
-              "RelativeToolTip": "Dotnet_Day4\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA1wDkAAABiAAAAAAAAAA==",
+              "Title": "Access_Specifier_Eg.cs",
+              "DocumentMoniker": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Access_Specifier_Eg.cs",
+              "RelativeDocumentMoniker": "Dotnet_Day4\\Access_Specifier_Eg.cs",
+              "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day4\\Dotnet_Day4\\Dotnet_Day4\\Access_Specifier_Eg.cs*",
+              "RelativeToolTip": "Dotnet_Day4\\Access_Specifier_Eg.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T04:32:29.908Z",
+              "WhenOpened": "2024-11-06T06:39:42.057Z",
               "EditorCaption": ""
             }
           ]

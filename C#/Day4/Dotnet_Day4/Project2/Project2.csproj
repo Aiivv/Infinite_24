@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FE3D7DDD-D3E2-4F06-B998-8F43551FC0C3}</ProjectGuid>
+    <ProjectGuid>{553F5559-3217-4FD3-AE7D-CA2DA60E6BDD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Dotnet_Day4</RootNamespace>
-    <AssemblyName>Dotnet_Day4</AssemblyName>
+    <RootNamespace>Project2</RootNamespace>
+    <AssemblyName>Project2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Dotnet_Day4.StructnEnumerations</StartupObject>
+    <StartupObject>Project2.Prj_2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,14 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Access_Specifier_Eg.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Prj_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StructnEnumerations.cs" />
+    <Compile Include="ReadOnlynConstant.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dotnet_Day4\Dotnet_Day4.csproj">
+      <Project>{fe3d7ddd-d3e2-4f06-b998-8f43551fc0c3}</Project>
+      <Name>Dotnet_Day4</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

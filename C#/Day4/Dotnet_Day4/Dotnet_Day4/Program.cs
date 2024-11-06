@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dotnet_Day4
 {
-
+    
     class Student
     {
         public int id;

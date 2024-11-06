@@ -1,0 +1,2 @@
+D:\Banu\Infinite\B3\C#\Day4\Dotnet_Day4\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\Banu\Infinite\B3\C#\Day4\Dotnet_Day4\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
