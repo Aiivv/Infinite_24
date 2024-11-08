@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C143157D-FFD3-4E3C-B4B4-00D567D3D8B8}|Dotnet_Day5\\Dotnet_Day5.csproj|solutionrelative:dotnet_day5\\override_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C143157D-FFD3-4E3C-B4B4-00D567D3D8B8}|Dotnet_Day5\\Dotnet_Day5.csproj|d:\\banu\\infinite\\b3\\c#\\day5\\dotnet_day5\\dotnet_day5\\inheritance_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C143157D-FFD3-4E3C-B4B4-00D567D3D8B8}|Dotnet_Day5\\Dotnet_Day5.csproj|D:\\Banu\\Infinite\\B3\\C#\\Day5\\Dotnet_Day5\\dotnet_day5\\inheritance_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C143157D-FFD3-4E3C-B4B4-00D567D3D8B8}|Dotnet_Day5\\Dotnet_Day5.csproj|solutionrelative:dotnet_day5\\inheritance_eg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Dotnet_Day5\\Inheritance_Eg.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:24:10.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:24:10.027Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Dotnet_Day5\\Override_Eg.cs",
               "ToolTip": "D:\\Banu\\Infinite\\B3\\C#\\Day5\\Dotnet_Day5\\Dotnet_Day5\\Override_Eg.cs",
               "RelativeToolTip": "Dotnet_Day5\\Override_Eg.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T04:42:58.548Z",
               "EditorCaption": ""

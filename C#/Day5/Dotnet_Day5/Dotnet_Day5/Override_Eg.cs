@@ -31,6 +31,7 @@ namespace Dotnet_Day5
 
         public override float Area()
         {
+            GetLengthnBreadth();
             return L * B;
         }
     }
@@ -42,23 +43,35 @@ namespace Dotnet_Day5
             Console.WriteLine("Enter Radius: ");
             R = Convert.ToSingle(Console.ReadLine());
         }
+        public override float Area()
+        {
+            GetRadius();
+            return 3.14f * R * R;
+        }
     }
 
     class Final
     {
         public static void Main()
         {
-           /* Rectangle obj1=new Rectangle();
-            obj1.GetLengthnBreadth();
-            Console.WriteLine("Are of rectangle is "+obj1.Area());
-            Console.WriteLine("-------------------");
-            Circle obj2=new Circle();
-            obj2.GetRadius();
-            Console.WriteLine("Area of Circle is "+obj2.Area());
-            Console.Read();*/
+            /* Rectangle obj1=new Rectangle();
+             obj1.GetLengthnBreadth();
+             Console.WriteLine("Are of rectangle is "+obj1.Area());
+             Console.WriteLine("-------------------");
+             Circle obj2=new Circle();
+             obj2.GetRadius();
+             Console.WriteLine("Area of Circle is "+obj2.Area());
+             Console.Read();*/
 
+            //Dynamic polymorphic or late binding behaviour of the object 's' using co-variance
+            Shapes s = new Shapes();
+            Console.WriteLine(s.Area());  //14
+            s = new Rectangle();//co-variance
+            Console.WriteLine(s.Area());  //32
+            s=new Circle();  //co-variance
+            Console.WriteLine(s.Area());  //46
+            Console.Read();  
         }
-
     }
 }
 
