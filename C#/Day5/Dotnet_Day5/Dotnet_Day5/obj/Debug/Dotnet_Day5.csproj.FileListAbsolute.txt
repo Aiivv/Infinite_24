@@ -1,7 +1,7 @@
+D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.csproj.AssemblyReference.cache
+D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.csproj.CoreCompileInputs.cache
 D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\bin\Debug\Dotnet_Day5.exe.config
 D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\bin\Debug\Dotnet_Day5.exe
 D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\bin\Debug\Dotnet_Day5.pdb
-D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.csproj.AssemblyReference.cache
-D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.csproj.CoreCompileInputs.cache
 D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.exe
 D:\Banu\Infinite\B3\C#\Day5\Dotnet_Day5\Dotnet_Day5\obj\Debug\Dotnet_Day5.pdb
